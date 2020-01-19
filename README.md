@@ -1,0 +1,1 @@
+# multicomponent.map.typescript
